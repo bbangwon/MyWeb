@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2245729533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e17e74ba3f0fe3a00fee0a259fb0c70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea1ffe9fd69e4e6b60fe9520eaf8409d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1903948397, guid: 60a362a8eb5bab4449ce0213fadea725, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/ColorBox.prefab
+- Assets/Prefabs/ColorCube.bytes
+Dependencies: []
