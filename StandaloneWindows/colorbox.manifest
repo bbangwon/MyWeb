@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2245729533
+CRC: 976261877
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3e17e74ba3f0fe3a00fee0a259fb0c70
+    Hash: b20d69379f3ad8c8e62b5a874dc4eca1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ea1ffe9fd69e4e6b60fe9520eaf8409d
+    Hash: a8a13b6938f7fc8cdbc98be3c429a6f0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,15 +23,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 49
-  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 1903948397, guid: 60a362a8eb5bab4449ce0213fadea725, type: 3}
+  Script: {fileID: 11500000, guid: 3f32690b9a50ee64fbd47f7632315a2f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
 - Assets/Prefabs/ColorBox.prefab
-- Assets/Prefabs/ColorCube.bytes
 Dependencies: []

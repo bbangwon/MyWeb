@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1703481191
+CRC: 4137257666
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: myab
+      Name: colorbox
       Dependencies: {}
