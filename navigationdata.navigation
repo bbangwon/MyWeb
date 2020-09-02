@@ -1,0 +1,93 @@
+{
+  "NavigationMesh": "UEsDBBQAAAgIAABIIewc30QhBgAAAAQAAAAXACQAZ3JhcGhfcmVmZXJlbmNlcy5iaW5hcnkKACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFjYGBgAABQSwMEFAAACAgAAEgh7BzfRCEGAAAABAAAABEAJABub2RlX2xpbmsyLmJpbmFyeQoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAWNgYGAAAFBLAwQUAAAICAAASCHse2MviDUAAAA+AAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAatWKkstKs7Mz1OyUjDRM9IzNNVRUEovSizIKAaKGIA4pZkpIHZ0LJBTUlmQ6peYmwoRqAUAUEsBAi0AFAAACAgAAEgh7BzfRCEGAAAABAAAABcAJAAAAAAAAAAAAAAAAAAAAGdyYXBoX3JlZmVyZW5jZXMuYmluYXJ5CgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAEgh7BzfRCEGAAAABAAAABEAJAAAAAAAAAAAAAAAXwAAAG5vZGVfbGluazIuYmluYXJ5CgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAEgh7HtjL4g1AAAAPgAAAAkAJAAAAAAAAAAAAAAAuAAAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAwADACcBAAA4AQAAAAA=",
+  "Destinations": [
+    {
+      "DisplayName": "제어동",
+      "Position": {
+        "x": 25.0,
+        "y": 2.0,
+        "z": 24.0
+      }
+    },
+    {
+      "DisplayName": "행정동",
+      "Position": {
+        "x": 5.0,
+        "y": 2.0,
+        "z": 45.0
+      }
+    },
+    {
+      "DisplayName": "가스동",
+      "Position": {
+        "x": 55.0,
+        "y": 2.0,
+        "z": 15.0
+      }
+    }
+  ],
+  "WayOptions": [
+    {
+      "Name": "NotSafe",
+      "Position": {
+        "x": 19.45,
+        "y": 0.0,
+        "z": 9.31
+      },
+      "Points": [
+        {
+          "x": 12.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.0
+        },
+        {
+          "x": 12.0,
+          "y": 0.0,
+          "z": 3.0
+        }
+      ],
+      "Tag": 1
+    },
+    {
+      "Name": "NotSafe",
+      "Position": {
+        "x": 28.45,
+        "y": 0.0,
+        "z": 38.2
+      },
+      "Points": [
+        {
+          "x": 12.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.0
+        },
+        {
+          "x": 12.0,
+          "y": 0.0,
+          "z": 3.0
+        }
+      ],
+      "Tag": 1
+    }
+  ]
+}
